@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=popopy0412)](https://solved.ac/popopy0412)
+## Tech Stacks
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776FB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 
 <!--
 **popopy0412/popopy0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
