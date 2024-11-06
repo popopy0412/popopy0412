@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popopy0412)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=popopy0412)](https://solved.ac/popopy0412)
 ## Tech Stacks
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
